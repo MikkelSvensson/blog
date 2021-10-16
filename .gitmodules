@@ -1,0 +1,4 @@
+[submodule "mikkelsvensson/public"]
+	path = mikkelsvensson/public
+	url = https://github.com/MikkelSvensson/mikkelsvensson.github.io.git
+	branch = main

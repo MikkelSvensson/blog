@@ -1,6 +1,8 @@
 ---
 title: "This is my first post"
 date: 2021-10-16T20:19:47+02:00
+description: Just a post for testing.
+topics: [sample,test]
 ---
 This is the section for content. I'm just trying it out to see how it will look.
 

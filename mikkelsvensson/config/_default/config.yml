@@ -1,0 +1,43 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+theme: congo
+baseURL: 'https://mikkelsvensson.net/'
+languageCode: en
+defaultContentLanguage: en
+title: Mikkel Svensson
+# copyright = "Copy, _right?_ :thinking_face:"
+enableEmoji: true
+enableRobotsTXT: true
+
+author:
+    name: Mikkel Staub Svensson
+    image: img/mikkel_480x480.jpg
+    links:
+        - email: mailto:mikkelstaubsvensson@gmail.com
+        - github: 'https://github.com/mikkelsvensson'
+        - gitlab: 'https://gitlab.com/mikkelsvensson'
+        - steam: 'https://steamcommunity.com/id/MSvensson'
+        - linkedin: 'https://linkedin.com/in/mikkel-svensson-810978223'
+  #   { link = "https://link-to-some-website.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
